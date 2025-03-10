@@ -1,3 +1,7 @@
 Paso a paso
 
-git push -u origin main
+1 git init
+2 git add "documento" "otroArchivo.txt"
+3 git commit -m "agregando doc con inst"
+4 git remote add origin url-a-nuestro-GitHub
+5 git push -u origin main
